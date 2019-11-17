@@ -1,0 +1,10 @@
+require('runtime-es2015.js');
+require('runtime-es5.js');
+require('polyfills-es5.js');
+require('polyfills-es2015.js');
+require('styles-es2015.js');
+require('styles-es5.js');
+require('vendor-es2015.js');
+require('vendor-es5.js');
+require('main-es2015.js');
+require('main-es5.js');
